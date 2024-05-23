@@ -1,7 +1,7 @@
 pipeline {
     agent {
         label {
-            label 'Windows'
+            label 'windows'
             retries 1
         }
     }
